@@ -19,17 +19,17 @@ The main contributions of our algorithm can be summed up as follows:
 • It can handle datasets that have neck-typed clusters.
 
 
-![Micro-Clusters](img/1_HalfKernel_.png) 
-![Macro-Clusters](img/1_HalfKernel__ARI.png)
+![Micro-Clusters](img/1_ThreeSpirals__ARI.png) 
 
-![Micro-Clusters](img/2_Three_Spirals_.png) 
-![Macro-Clusters](img/2_Three_Spirals__ARI.png)
+![Micro-Clusters](img/2_varyingdensity__ARI.png) 
 
-![Micro-Clusters](img/3_Corners_.png) 
-![Macro-Clusters](img/3_Corners__ARI.png)
+![Micro-Clusters](img/3_cure-t1-2000n-2D__ARI.png) 
 
-![Micro-Clusters](img/4_Moon_.png) 
-![Macro-Clusters](img/4_Moon__ARI.png)
+![Macro-Clusters](img/4_aggregation__ARI.png)
+
+![Micro-Clusters](img/5_DS1__ARI.png) 
+
+![Macro-Clusters](img/6_DS3__ARI.png)
 
 Requirements:
 
