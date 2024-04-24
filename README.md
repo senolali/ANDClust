@@ -54,6 +54,6 @@ Requirements:
 • Jupyter Notebook (optional, if you plan to run the code in a Jupyter Notebook)
 
 If you use the code in your works, please cite the paper given below:
-<br>
-<h2>How to Cite:</h2><br>
+<br><br>
+<h2>How to Cite:</h2>
 A. Şenol, ANDClust: An Adaptive Neighborhood Distance-Based Clustering Algorithm to Cluster Varying Density and/or Neck-Typed Datasets. Adv. Theory Simul. 2024, 7, 2301113. https://doi.org/10.1002/adts.202301113
